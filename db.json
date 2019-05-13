@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "text": "Belajar SDA",
+      "completed": false
+    },
+    {
+      "id": 1,
+      "text": "Baca Buku di Perpus",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Bukber di Musholla",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "Makan di Nenek",
+      "completed": false
+    }
+  ]
+}
